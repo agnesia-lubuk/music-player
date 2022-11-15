@@ -13,6 +13,36 @@ const durationDisplay = document.getElementById('duration')
 // Music
 const songs = [
   {
+    name: 'Enough to Believe',
+    displayName: 'Enough to Believe',
+    artist: 'Bob Moses',
+  },
+  {
+    name: 'What If I Go in the Live Lounge',
+    displayName: 'What If I Go in the Live Lounge',
+    artist: 'Mura Masa & Bonzai',
+  },
+  {
+    name: 'Make You Feel My Love',
+    displayName: 'Make You Feel My Love',
+    artist: 'Adele',
+  },
+  {
+    name: 'Supergirl',
+    displayName: 'Supergirl',
+    artist: 'Anna Naklab feat. Alle Farben',
+  },
+  {
+    name: 'Six Days',
+    displayName: 'Six Days',
+    artist: 'DJ Shadow',
+  },
+  {
+    name: 'Iris',
+    displayName: 'Iris',
+    artist: 'Goo Goo Dolls',
+  },
+  {
     name: 'Faded',
     displayName: 'Faded',
     artist: 'Alan Walker',
